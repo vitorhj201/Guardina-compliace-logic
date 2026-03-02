@@ -14,5 +14,5 @@ O objetivo central deste módulo é a **Automação da Auditoria**. Em vez de um
 - **Foco em Compliance:** Estruturado para atender requisitos de auditoria técnica.
 
 ---
-> **Dependência:** Este módulo consome a saída de dados gerada pelo [Guardian Data Translator](COLOCAR-LINK-DO-OUTRO-REPO-AQUI).
+> **Dependência:** Este módulo consome a saída de dados gerada pelo [https://github.com/vitorhj201/guardian-translator).
 > 
